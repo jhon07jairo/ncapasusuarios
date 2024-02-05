@@ -1,0 +1,17 @@
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\bin\Debug\net6.0\Usuarios.DAL.deps.json
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\bin\Debug\net6.0\Usuarios.DAL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\bin\Debug\net6.0\Usuarios.DAL.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.AssemblyInfoInputs.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.AssemblyInfo.cs
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.csproj.CoreCompileInputs.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\refint\Usuarios.DAL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\ref\Usuarios.DAL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\bin\Debug\net6.0\Usuarios.DAL.runtimeconfig.json
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.csproj.AssemblyReference.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.genruntimeconfig.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\bin\Debug\net6.0\Usuarios.Models.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\bin\Debug\net6.0\Usuarios.Models.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.DAL\obj\Debug\net6.0\Usuarios.DAL.csproj.CopyComplete

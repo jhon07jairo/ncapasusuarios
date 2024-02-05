@@ -1,0 +1,17 @@
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.BLL.deps.json
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.BLL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.BLL.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.AssemblyInfoInputs.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.AssemblyInfo.cs
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.csproj.CoreCompileInputs.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\refint\Usuarios.BLL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\ref\Usuarios.BLL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.DAL.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.Models.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.DAL.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\bin\Debug\net6.0\Usuarios.Models.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.csproj.AssemblyReference.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.BLL\obj\Debug\net6.0\Usuarios.BLL.csproj.CopyComplete

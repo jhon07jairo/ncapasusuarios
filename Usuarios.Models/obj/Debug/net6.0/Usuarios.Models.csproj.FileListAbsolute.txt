@@ -1,0 +1,11 @@
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\bin\Debug\net6.0\Usuarios.Models.deps.json
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\bin\Debug\net6.0\Usuarios.Models.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\bin\Debug\net6.0\Usuarios.Models.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\Usuarios.Models.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\Usuarios.Models.AssemblyInfoInputs.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\Usuarios.Models.AssemblyInfo.cs
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\Usuarios.Models.csproj.CoreCompileInputs.cache
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\Usuarios.Models.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\refint\Usuarios.Models.dll
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\Usuarios.Models.pdb
+d:\Users\jhon\Documents\Dev\UsuariosCapas\SolutionUsuarios\Usuarios.Models\obj\Debug\net6.0\ref\Usuarios.Models.dll
